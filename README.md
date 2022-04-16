@@ -1,2 +1,4 @@
 # shard-table-helper
-Mybatis分表插件（手动设置表后缀名）
+Mybatis shard table plugin(set table suffix name by code)
+
+you need run maven install for this project to dependency it.
